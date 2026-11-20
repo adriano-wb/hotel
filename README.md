@@ -1,6 +1,6 @@
 # Frontend Mentor - Hotel booking confirmation page
 
-![Design preview for the Hotel booking confirmation page coding challenge](./design.jpg)
+![Design preview for the Hotel booking confirmation page coding challenge](./design.png)
 
 ## Welcome! 👋
 
