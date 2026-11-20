@@ -188,7 +188,11 @@ main {padding: 3px 16px}
 }
 
 .cartao-clima {
-	background: var(--sun-300) url("../assets/images/icon-weather.svg") 164px -30px no-repeat;
+	background:
+		var(--sun-300)
+		url("../assets/images/icon-weather.svg")
+		right -20px top -30px
+		no-repeat;
 	border-radius: 18px;
 	padding: 12px 17px;
 }
